@@ -1,6 +1,8 @@
 # hse21_hw2
 Подготовка данных: https://colab.research.google.com/drive/16uKBRvoRUATFpTN7_HhfOGOObUtP8kYe?usp=sharing
+
 Аннотация для 2 отдельных скаффолдов:
+
 Аннотация для всех скаффолдов:
 
 # Статистика:
